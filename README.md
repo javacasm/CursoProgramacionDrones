@@ -1,5 +1,12 @@
 # Curso de Programación de Drones
 
+### CEP de Linares 2019
+
+### José Antonio Vacas @javacasm
+
+![CC](./images/Licencia_CC_peque.png)
+
+## Justificaci'on
 
 Cada vez son más los usos de los drones en nuestro día a día. Eso unido al abaratamiento de la tecnología necesaria para construirlos nos permite utilizarlos como herramienta docente.
 
@@ -23,6 +30,8 @@ El objetivo del curso es aprender a construir y manejar un drone de tipo QuadCop
 * Aprender a montar los sistemas electrónicos de control de los drones
 * Aprender a montar y calibrar un drone
 * Volar un drone
+
+## Contenidos
 
 ## Introducción
 * Introducción
