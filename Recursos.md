@@ -66,3 +66,12 @@
 
 Arduino Drone: http://www.youtube.com/playlist?list=PLsR1AO4QH1Azezx2KBeHrlakiOjN65BGX
 (Creando el emisor y el receptor)
+
+## Programaci
+
+https://vimeo.com/357347145 
+
+
+https://learn.droneblocks.io/p/introduction-to-drone-programming-with-tello  
+https://learn.droneblocks.io/courses/tello-drone-programming-with-python/lectures/4940545 
+https://github.com/dbaldwin/droneblocks-tello-python 
