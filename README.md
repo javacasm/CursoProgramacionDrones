@@ -6,7 +6,7 @@
 
 ![CC](./images/Licencia_CC_peque.png)
 
-## Justificaci'on
+## Justificación
 
 Cada vez son más los usos de los drones en nuestro día a día. Eso unido al abaratamiento de la tecnología necesaria para construirlos nos permite utilizarlos como herramienta docente.
 
@@ -39,6 +39,7 @@ El objetivo del curso es aprender a construir y manejar un drone de tipo QuadCop
   * Usos actuales
   * Tipos
   * Modelos
+  * Vuelo de enjambres
 * Seguridad
 * Legislación
 * Teoría
@@ -78,6 +79,8 @@ Usaremos drones de tipo [DJI Tello EDU](./DJITelloEdu.md)
 * Programación de rutas
 * Control de la cámara
 * Reconocimiento de imágenes
+* Programación NodeRed
+* Programación de enjambres
 
 ## Recursos
 
