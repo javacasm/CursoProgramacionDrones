@@ -49,3 +49,10 @@ https://www.duckpage.com/blog/programming-tello-with-python
 ## Recursos
 
 https://www.ryzerobotics.com/es/tello-edu
+
+## Programación de Trello
+
+https://vimeo.com/357347145 
+https://learn.droneblocks.io/p/introduction-to-drone-programming-with-tello  
+https://learn.droneblocks.io/courses/tello-drone-programming-with-python/lectures/4940545 
+https://github.com/dbaldwin/droneblocks-tello-python 
