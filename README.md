@@ -1,6 +1,6 @@
 # Curso de Programación de Drones
 
-### CEP de Linares 2019
+### CEP de Úbeda 2019
 
 ### José Antonio Vacas @javacasm
 
@@ -34,11 +34,11 @@ El objetivo del curso es aprender a construir y manejar un drone de tipo QuadCop
 ## Contenidos
 
 ## Introducción
-* Introducción
+* [Introducción](./Introduccion.md)
   * ¿Qué es un drone?
   * Usos actuales
   * Tipos
-  * Modelos
+  * [Modelos](./modelos.md)
   * Vuelo de enjambres
 * Seguridad
 * Legislación
