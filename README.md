@@ -1,6 +1,6 @@
 # Curso de Programación de Drones
 
-### CEP de Úbeda 2019
+### CEP de Jaén/Úbeda 2019/2020
 
 ### José Antonio Vacas @javacasm
 
@@ -18,7 +18,7 @@ Durante las sesiones del curso aprenderemos la teoría necesaria para entender e
  
 También aprenderemos los aspectos legales del vuelo con drones
 
-La pondremos en práctica montando un modelo sencillo y aprenderemos a volarlo.
+La pondremos en práctica volandoo un modelo sencillo.
 
 Veremos que es posible programarlos de manera que podamos realizar tareas complejas
 
@@ -27,9 +27,8 @@ Veremos que es posible programarlos de manera que podamos realizar tareas comple
 El objetivo del curso es aprender a construir y manejar un drone de tipo QuadCopter, aprendiendo en el camino todo lo necesario de electrónica y programación.
 
 * Entender cómo funciona un drone: electrónica, comunicaciones,...
-* Aprender a montar los sistemas electrónicos de control de los drones
-* Aprender a montar y calibrar un drone
 * Volar un drone
+* Aprender a programar un drone utilizando bloques, python y NodeRed
 
 ## Contenidos
 
@@ -51,13 +50,6 @@ El objetivo del curso es aprender a construir y manejar un drone de tipo QuadCop
   * Programas
   * GPS
   * Vuelo (utilizando modelos de interior)
-
-## Uso y montaje
-
-* Montaje de drones
-  * Montaje de la estructura y la electrónica
-  * Calibración
-  * Primer vuelo
 
 ## Programación de Drones
 
@@ -81,6 +73,15 @@ Usaremos drones de tipo [DJI Tello EDU](./DJITelloEdu.md)
 * Reconocimiento de imágenes
 * Programación NodeRed
 * Programación de enjambres
+
+## Fechas
+
+12 Horas
+
+27/11/2019
+4/12/2019
+14/1/2020
+21/1/2020
 
 ## Recursos
 
