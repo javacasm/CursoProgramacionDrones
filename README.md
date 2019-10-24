@@ -1,6 +1,6 @@
 # Curso de Programación de Drones
 
-### CEP de Jaén/Úbeda 2019/2020
+### CEP de Jaén/Úbeda/Linares 2019/2020
 
 ### José Antonio Vacas @javacasm
 
@@ -74,43 +74,45 @@ Usaremos drones de tipo [DJI Tello EDU](./DJITelloEdu.md)
 * Programación NodeRed
 * Programación de enjambres
 
-## Fechas
+## Duración y posibles fechas
 
-12 Horas
+Duración: 12 Horas
 
-27/11/2019
-4/12/2019
-14/1/2020
-21/1/2020
+|Fecha|Horario
+|---|---
+|27/11/2019|16:30-19:30
+|4/12/2019|16:30-19:30
+|14/1/2020|16:30-19:30
+|21/1/2020|16:30-19:30
 
 ## Recursos
 
-### Cursos
+#### Cursos
 
 [Iniciación al mundo de las aeronaves tripuladas remotamente](https://miriadax.net/web/iniciacion-al-mundo-de-las-aeronaves-tripuladas-en-remoto-drones-)
 
 [Curso de montaje y vuelo de Drones](http://deflydrone.com/blog/23-proximo-curso-taller-fabricacion-de-drones-en-barcelona)
 
-### Simuladores
+#### Simuladores
 
 [Simulador de drones](https://fpv-freerider.itch.io/?cn=cmVwbHk%3D)
 
 [Comparativa de simuladores de drones](http://www.dronethusiast.com/simulador-de-drones/)
 
-### Varios
+#### Varios
 
 [Manejo de flotas de drones](https://www.hackster.io/ryan-moore/manage-a-fleet-of-drones-cf9956)
 
-##Diseño tu propio drone
+#### Diseño tu propio drone
 
 Arduino Drone: http://www.youtube.com/playlist?list=PLsR1AO4QH1Azezx2KBeHrlakiOjN65BGX
 (Creando el emisor y el receptor)
 
-### Experiencias
+#### Experiencias
 
 [Montando 1 drone by Guadatech](http://www.guadatech.com/construyendo-un-drone/)
 
-### Programación
+#### Programación
 
 [Cursos](https://learn.droneblocks.io/courses/291350/lectures/4483399)
 
